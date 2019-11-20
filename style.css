@@ -1,0 +1,22 @@
+ th {
+  border: 1px solid black;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+}
+
+#color1 {
+  background-color: #f1f1c1;
+}
+
+#color2 {
+  background-color: #f112c1;
+}
+
+#color3 {
+  background-color: #f1a212c1;
+}
+
+#color4 {
+  background-color: #b6a267c1;
+}
